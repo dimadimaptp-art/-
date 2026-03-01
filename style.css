@@ -1,2 +1,4 @@
-color: green
-background: blue
+body {
+  background: green;
+  color: blue;
+}
